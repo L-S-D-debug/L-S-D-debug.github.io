@@ -53,7 +53,7 @@ html {
   
   .header__item {
     display: inline-block;
-    float: left;
+    /* float: left; */
   }
   
   .menu-icon__line {
@@ -121,7 +121,7 @@ html {
     font-size: 1rem;
     display: inline-block;
     transform: rotate(-90deg) translateY(50%);
-    float: left;
+    /* float: left; */
     position: relative;
     top: 40%;
     letter-spacing: 0.2rem;
@@ -225,7 +225,7 @@ html {
   .scroller {
     width: 7.5rem;
     display: inline-block;
-    float: right;
+    /* float: right; */
     position: relative;
     top: -15%;
     transform: translateY(50%);
@@ -235,14 +235,14 @@ html {
     font-family: "Playfair Display", serif;
     letter-spacing: 0.5rem;
     display: inline-block;
-    float: left;
+    /* float: left; */
     margin-top: 1rem;
   }
   .scroller .timeline {
     width: 1.5rem;
     height: 9rem;
     display: inline-block;
-    float: right;
+    /* float: right; */
   }
   .scroller .timeline .timeline__unit {
     width: 100%;
